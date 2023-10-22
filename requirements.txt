@@ -1,0 +1,6 @@
+selenium
+requests
+certifi==2019.9.11
+Click==7.0
+
+numpy
